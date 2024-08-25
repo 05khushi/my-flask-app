@@ -1,0 +1,32 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+textarea {
+  width: 80%;
+  border: 1px solid #000;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+.basic-multi-select {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.select {
+  margin-bottom: 20px;
+}
